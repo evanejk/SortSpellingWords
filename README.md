@@ -1,4 +1,4 @@
-example of list of words from MIT sorted
+example of list of words from MIT sorted. the idea is the first words only use the first letters of the ABCs and the words at the end use all the letters
 
 a
 aa
